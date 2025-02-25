@@ -11,24 +11,26 @@ TaxEase.Ai streamlines tax management by:
 - **Ensuring Data Security:** Implements robust security measures to protect sensitive financial data.
 
 ## Features
-
-- **AI-Driven Tax Optimization:**
+![AI-Driven Tax Optimization](./assets/features.png)
+- **AI-Powered Tax Recommendations**
   - Uses machine learning models to analyze financial data.
   - Provides personalized recommendations for maximizing tax deductions.
+![AI-Driven Tax Optimization](./assets/chatbot.png)
+- **PAN Card Authentication**
+  - The PAN Card Authentication feature streamlines the registration process while ensuring robust security and compliance. 
+  - By leveraging a government-issued identifier, this feature significantly reduces fraud and simplifies user onboarding.
 ![AI-Driven Tax Optimization](./assets/user-account-management.png)
-- **User Account Management:**
-  - Secure registration and login using JWT authentication.
-  - Role-based access control for different user types (individuals, businesses, tax professionals).
-- **Document Handling and OCR Integration:**
-  - Upload and process tax documents using Optical Character Recognition (OCR).
-  - Auto-extract key financial details to reduce manual entry.
+- **Quick & Easy Filing**
+  - The system processes user-provided financial data (such as income, expenses, and deductions) and automatically computes tax liabilities, eligible deductions, and potential refunds.
 ![AI-Driven Tax Optimization](./assets/document-handling-ocr-integration.png)
-- **Seamless Tax Filing:**
-  - Generate pre-filled tax forms based on user data.
-  - Integration with government APIs for electronic submission.
-- **Payment Gateway Integration:**
-  - Secure payment processing for tax payments and refunds.
-  - Detailed transaction logging for audit trails.
+- **Multi-Platform Access**
+  - Automatically syncs your tax data in real time across all devices.
+  - Provides a responsive interface that adapts to various screen sizes and resolutions.
+
+![AI-Driven Tax Optimization](./assets/mobile.png)
+- **Maximize your refund, Minimize Tax liability**
+  - Provides you with an estimated refund amount that reflects maximum possible savings.
+  - It automatically identifies all eligible tax deductions and credits based on the latest tax regulations.
 - **Interactive Dashboard & Reporting:**
   - Real-time analytics on tax liabilities and savings.
   - Visual insights into tax history and future projections.
