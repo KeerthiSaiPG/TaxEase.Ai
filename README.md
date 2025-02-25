@@ -15,12 +15,14 @@ TaxEase.Ai streamlines tax management by:
 - **AI-Driven Tax Optimization:**
   - Uses machine learning models to analyze financial data.
   - Provides personalized recommendations for maximizing tax deductions.
+![AI-Driven Tax Optimization](./assets/user-account-management.png)
 - **User Account Management:**
   - Secure registration and login using JWT authentication.
   - Role-based access control for different user types (individuals, businesses, tax professionals).
 - **Document Handling and OCR Integration:**
   - Upload and process tax documents using Optical Character Recognition (OCR).
   - Auto-extract key financial details to reduce manual entry.
+![AI-Driven Tax Optimization](./assets/document-handling-ocr-integration.png)
 - **Seamless Tax Filing:**
   - Generate pre-filled tax forms based on user data.
   - Integration with government APIs for electronic submission.
@@ -30,6 +32,7 @@ TaxEase.Ai streamlines tax management by:
 - **Interactive Dashboard & Reporting:**
   - Real-time analytics on tax liabilities and savings.
   - Visual insights into tax history and future projections.
+![AI-Driven Tax Optimization](./assets/interactive-dashboard.png)
 
 ## Tech Stack
 
