@@ -75,16 +75,7 @@ export default function WithSubnavigation() {
                     justify={'flex-end'}
                     direction={'row'}
                     spacing={6}>
-                    {/* <Button
-                    color={'black'}
-                    size={{base:'xs',md:'md',lg:'lg'}}
-                        as={'a'}
-                        fontSize={{base:'xs',md:'sm'}}
-                        fontWeight={600}
-                        variant={'link'}
-                        onClick={handlelogout}>
-                        LOGOUT
-                    </Button> */}
+                    
                     <Button
                         as={'a'}
                         display={{ base: 'inline-flex', md: 'inline-flex' }} 
@@ -274,14 +265,6 @@ const NAV_ITEMS = [
         label:'Calculators',
         href: '/calculators',
     },
-    // {
-    //     label: 'Company',
-    //     href: '/company',
-    // },
-    // {
-    //     label: 'Logbook',
-    //     href: '/logbook',
-    // },
     {
         label: 'Paynow',
         href: '/paytax',

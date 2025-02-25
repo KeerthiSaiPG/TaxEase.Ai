@@ -9,13 +9,7 @@ import {
     Link,
 } from '@chakra-ui/react'
 
-import twitter from "../Images/icons8-twitter-30.png"
-import insta from '../Images/icons8-instagram-old-50.png'
-import linkedin from '../Images/icons8-linkedin-2-30.png'
-import youtube from '../Images/icons8-youtube-24.png'
-import sidetwitter from "../Images/icons8-twitter-squared-48.png"
 
-import sidelinkedin from '../Images/icons8-linkedin-48.png'
 import styled from "styled-components"
 // import { hover } from "@testing-library/user-event/dist/hover"
 
