@@ -14,7 +14,6 @@ import Multistep from '../Component/Homelogin'
 import { Link } from 'react-router-dom'
 import { useSelector } from 'react-redux'
 
-// import KommunicateChat from '../Component/chat'
 function Home() {
     const [onvideo, setonvideo] = useState(false)
     const {auth,data}=useSelector((store)=> store.loginreducer)

@@ -9,7 +9,7 @@ import Kommunicate from '@kommunicate/kommunicate-chatbot-plugin';
 import { Provider } from 'react-redux';
 import { store } from './Redux/store';
 import '@fontsource/roboto-mono'; // npm install @fontsource/roboto-mono
-Kommunicate.init("20edef014f4a3795b3d32beacc04452fe")
+Kommunicate.init("1c849271b7e990b238dbb289ea41a5e92")
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <Provider store={store}>
