@@ -23,9 +23,9 @@ function Home() {
         <div id='textrelative'>
             <div id='textimg'>
                 <b>
-                <div style={{ textAlign: 'left-align', color: '#202124', margin: '20px 0' }}>
+                <div style={{ textAlign: 'center', color: '#202124', margin: '20px 0' }}>
                 <h1 style={{ fontSize: '36px', fontWeight: '700', marginBottom: '0' }}>THE FASTEST, EASIEST WAY</h1>
-                <h1 style={{ fontSize: '36px', fontWeight: '700', color: '#1A73E8' }}>TO DO YOUR TAX RETURN.</h1>
+                <h1 style={{ fontSize: '36px', fontWeight: '700', color: '#1A73E8' }}> TO DO YOUR TAX RETURN.</h1>
                 </div>
 
                 </b>
@@ -34,10 +34,7 @@ function Home() {
         </div>
         <div width='100%' className='formdiv'>
             
-            <div id="form" style={{
-                
-                width: '35%'
-            }} >
+            <div id="form" >
                 <button 
                     id="videobutton"
                      style={{border:'2px solid grey'}}
@@ -232,16 +229,16 @@ const DIV = styled.div`
     width:100%; 
 }
 #textimg{
-    position:relative;
-    text-align:left;
-    top:180px;
-    left:10%;
-    font-size:30px;
-    width:90%;
+      position: relative;
+    text-align: left;
+    top: 180px;
+    /* left: 10%; */
+    font-size: 30px;
+    width: 100%;
 }
 #textrelative{
-    margin-top: 55px;
-    position: absolute;
+    // margin-top: 55px;
+    // position: absolute;
     width: 100%;
     pointer-events:all;
 }
@@ -268,6 +265,7 @@ const DIV = styled.div`
 
 #form{
     position:relative;
+    width:95%
     right:-63%;
     top:15%;
 }
@@ -285,7 +283,7 @@ const DIV = styled.div`
     width: 30%;
 }
 #afterimg{
-    margin-top: 15%;
+    margin-top: 25%;
 }
 #firstdivrestext{
     padding: 20px 25px;
@@ -504,22 +502,26 @@ const DIV = styled.div`
         width:90%;
     }
     #videobutton{
-        position:relative;
-        display:${({ onvideo }) => onvideo ? 'none' : 'flex'};
-        font-size:18px;
-        background-color:white;
-        padding:10px 10px 5px 100px;
-        border-radius:5px;
+        position: relative;
+        display: none;
+        font-size: 18px;
+        background-color: white;
+        padding: 10px 10px 5px 100px;
+        border-radius: 5px;
     }
     #vedio{
         display:${({ onvideo }) => onvideo ? 'flex' : 'none'};
     }
     #form{
-        // display:none;
-    } 
+    position:relative;
+    top:65%;
+    width:80%;
+    transform: translateX(13%);
+}
     .formdiv{
         position: relative;
         height: 100%;
+                margin-top: 120px;
     }
     #firstdivres{
         display: flex;
