@@ -1,6 +1,6 @@
 import React from 'react'
 import { useNavigate } from 'react-router-dom'
-import image from "../Images/TaxGenius_+_color-removebg-preview.png"
+import image from "../Images/logo.png"
 
 import styled from 'styled-components'
 import { Button } from '@chakra-ui/react'

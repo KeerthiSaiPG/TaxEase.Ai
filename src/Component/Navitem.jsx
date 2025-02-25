@@ -23,7 +23,7 @@ import {
     ChevronDownIcon,
     ChevronRightIcon,
 } from '@chakra-ui/icons';
-import logo from '../Images/TaxGenius_+_color-removebg-preview.png'
+import logo from '../Images/logo.png'
 import { Link as NONREFRESH, useNavigate } from 'react-router-dom';
 export default function WithSubnavigation() {
     const { isOpen, onToggle } = useDisclosure();
@@ -87,18 +87,24 @@ export default function WithSubnavigation() {
                     </Button> */}
                     <Button
                         as={'a'}
-                        display={{ base: 'ninline-flex', md: 'inline-flex' }}
-                        fontSize={{base:'xs',md:'sm'}}
+                        display={{ base: 'inline-flex', md: 'inline-flex' }} 
+                        fontSize={{ base: 'xs', md: 'sm' }}
                         fontWeight={600}
                         color={'white'}
-                        bg={'green'}
+                        bg={'#4285F4'} /* Google Blue */
                         href={'/login'}
-                        size={{base:'xs',md:'md',lg:'lg'}}
+                        size={{ base: 'xs', md: 'md', lg: 'lg' }}
+                        borderRadius={'4px'} /* Slightly rounded corners like Google buttons */
                         _hover={{
-                            bg: '#4CAF50',
+                            bg: '#357ae8', /* Darker blue on hover */
+                            textDecoration: 'none'
+                        }}
+                        _active={{
+                            bg: '#2a65c4' /* Even darker blue when clicked */
                         }}>
                         LOGIN
                     </Button>
+
                 </Stack>
             </Flex>
 

@@ -11,7 +11,7 @@ import {
     IconButton,
     useColorModeValue,
   } from '@chakra-ui/react';
-  import logo from '../Images/TaxGenius_+_color-removebg-preview.png'
+  import logo from '../Images/logo.png'
   import { ReactNode } from 'react';
   import { FaInstagram, FaTwitter, FaYoutube } from 'react-icons/fa';
   import { BiMailSend } from 'react-icons/bi';
