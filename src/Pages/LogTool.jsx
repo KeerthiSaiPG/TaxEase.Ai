@@ -1,6 +1,7 @@
 import React from 'react'
 // import Navbar from '../Component/Navbar';
 import styled from 'styled-components';
+import backgroundimg from "../Images/apps-webpage-header-bg.png"
 import { Button } from '@chakra-ui/react'
 import gift from "../Images/logbook-image.gif"
 
@@ -104,6 +105,7 @@ const DIV = styled.div`
     .top {
       margin-top:80px;
       /* border: 1px solid red; */
+      background-image: url(${backgroundimg});
       padding:70px 0px 40px 0px;
       /* margin-bottom:-40px; */
     }

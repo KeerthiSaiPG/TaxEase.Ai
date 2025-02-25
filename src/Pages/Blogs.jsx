@@ -1,4 +1,6 @@
 import React from "react";
+import image1 from '../Images/Screenshot (1236).png'
+import image2 from '../Images/Screenshot (1237).png'
 import styled from "styled-components";
 
 const Blog = () => {
@@ -103,7 +105,10 @@ const Blog = () => {
                         <></>
                     </div>
                 </div>
-                
+                <div id='imgdiv'>
+                    <img src={image1} alt="" />
+                    <img src={image2} alt="" />
+                </div>
             </div>
         </DIV>
     );
