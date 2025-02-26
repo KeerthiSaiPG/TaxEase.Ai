@@ -31,6 +31,7 @@ TaxEase.Ai streamlines tax management by:
 - **Maximize your refund, Minimize Tax liability**
   - Provides you with an estimated refund amount that reflects maximum possible savings.
   - It automatically identifies all eligible tax deductions and credits based on the latest tax regulations.
+  ![AI-Driven Tax Optimization](./assets/generating.png) | ![AI-Driven Tax Optimization](./assets/suggestions.png)
 - **Interactive Dashboard & Reporting:**
   - Real-time analytics on tax liabilities and savings.
   - Visual insights into tax history and future projections.
