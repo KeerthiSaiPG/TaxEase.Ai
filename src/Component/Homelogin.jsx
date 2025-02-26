@@ -63,11 +63,11 @@ const Form1 = ({ onComplete }) => {
       <Flex direction="column" className="flex-container">
         <FormControl>
           <FormLabel>First Name</FormLabel>
-          <Input value={userData.firstName} readOnly />
+          <Input value={userData.firstName} readOnly disabled placeholder='As per PAN' />
         </FormControl>
         <FormControl>
           <FormLabel>Last Name</FormLabel>
-          <Input value={userData.lastName} readOnly />
+          <Input value={userData.lastName} readOnly disabled placeholder='As per PAN' />
         </FormControl>
         <FormControl>
           <FormLabel>Email Address</FormLabel>
