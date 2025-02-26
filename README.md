@@ -59,17 +59,13 @@ Our system auto-verifies details, minimizes errors, and ensures **compliance wit
   - [Node.js](https://nodejs.org/) with Express.js for RESTful API development.
   - **AI Modules:** Python (using libraries such as TensorFlow, PyTorch, or scikit-learn) for implementing machine learning models.
 - **Frontend:**
-  - [React](https://reactjs.org/) (or Angular/Vue) for a responsive and dynamic user interface.
+  - [React](https://reactjs.org/) for a responsive and dynamic user interface.
   - CSS frameworks like [Bootstrap](https://getbootstrap.com/) or [Tailwind CSS](https://tailwindcss.com/) for styling.
-- **Database:**
-  - PostgreSQL or MongoDB for robust data storage.
-- **DevOps & Deployment:**
-  - Docker for containerized deployment.
-  - CI/CD pipelines (GitHub Actions, Jenkins, etc.) for automated testing and deployment.
+- **Deployment:**
+  - Used Vercel and Streamlit for containerized deployment.
+  - Utilized GitHub for version control and collaboration.
 - **Additional Tools:**
   - OCR Integration for document processing.
-  - JWT for authentication and secure data access.
-
 
 ## Installation and Setup
 
@@ -77,8 +73,6 @@ Our system auto-verifies details, minimizes errors, and ensures **compliance wit
 
 - [Node.js](https://nodejs.org/) and npm/yarn installed
 - [Python](https://www.python.org/) for AI module dependencies
-- A compatible database (PostgreSQL or MongoDB)
-- [Docker](https://www.docker.com/) (optional, for containerized deployment)
 
 ### Steps
 
@@ -86,4 +80,21 @@ Our system auto-verifies details, minimizes errors, and ensures **compliance wit
    ```bash
    git clone https://github.com/KeerthiSaiPG/TaxEase.Ai.git
    cd TaxEase.Ai
+   ```
+2. **Install Dependencies:**
+   ```bash
+   npm install  # For frontend dependencies
+   pip install -r requirements.txt  # For AI module dependencies
+   ```
+3. **Run the Application:**
+   ```bash
+   npm start 
+   python main.py
+   ```
+## Contributions
+
+We welcome contributions from the community to improve and expand TaxEase.Ai!
+
+Happy coding! 🚀
+
 
