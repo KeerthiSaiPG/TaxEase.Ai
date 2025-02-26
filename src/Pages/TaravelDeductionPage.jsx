@@ -163,7 +163,7 @@ export const TravelDeductionPage = () => {
                         </div>
                     </div>
                     <div className='t2'>
-                        <p>TaxGenius will help you:</p>
+                        <p>TaxEase will help you:</p>
                         <div>
                             <div style={{display: "flex", paddingTop:"25px", paddingLeft:"35px", gap:"7px"}}>
                                 <img  src="https://www.taxtim.com/za/images/icon_tick_circle.svg" alt="done-img" />

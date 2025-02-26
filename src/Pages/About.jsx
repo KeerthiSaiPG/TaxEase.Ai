@@ -15,14 +15,14 @@ function About() {
     return <DIV><div id="maincontainer">
         <div id='maincontainerdiv' >
             <h1 id="firsthead"><b>Make tax easy in 2023</b></h1>
-            <h2 id='secondhead'><b>Buy a TaxGenius voucher today. Do your taxes right and get the refund you deserve on 1 Jul 2023.</b></h2>
+            <h2 id='secondhead'><b>Buy a TaxEase voucher today. Do your taxes right and get the refund you deserve on 1 Jul 2023.</b></h2>
             <br />
             <div >
 
                 <div id='yellowhead'><h2 style={{ fontSize: '19.2px' }}><b>OUT OF TAX SEASON SPECIAL - Buy a Voucher Today and SAVE 20%!</b></h2></div>
                 <div style={{ display: 'flex', flexDirection: 'row', padding: '80px 20px' }}>
                     <div >
-                    <h3 >Get TaxGenius FREE or discounted</h3>
+                    <h3 >Get TaxEase FREE or discounted</h3>
                     <h3> via these great partners:</h3>
                     </div>
                     <div id='firstgrid'>
@@ -98,7 +98,7 @@ function About() {
                                 <Td><img src={done}  style={{margin:'auto'}} alt="" /></Td>
                             </Tr>
                             <Tr>
-                                <Td>TaxGenius fetches your IRP5(s), Medical and Retirement data from SARS </Td>
+                                <Td>TaxEase fetches your IRP5(s), Medical and Retirement data from SARS </Td>
                                 <Td><img src={done}  style={{margin:'auto'}} alt="" /></Td>
                                 <Td><img src={done}  style={{margin:'auto'}} alt="" /></Td>
                                 <Td><img src={done}  style={{margin:'auto'}} alt="" /></Td>
@@ -187,7 +187,7 @@ function About() {
                              
                             </Tr>
                             <Tr>
-                                <Td>TaxGenius fetches your IRP5(s), Medical and Retirement data from SARS </Td>
+                                <Td>TaxEase fetches your IRP5(s), Medical and Retirement data from SARS </Td>
                                 <Td><img src={done} width={'20px'} alt="" /></Td>
                                
                             </Tr> 

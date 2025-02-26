@@ -54,7 +54,7 @@ function Home() {
                 <div id='firstdivrestext' >
                 <div style={{ textAlign: 'center', padding: '20px', color: '#333' }}>
     <h1 style={{ fontSize: '27px', fontWeight: 'bold', color: '#202124' }}>
-        How Does <span style={{ color: '#4285F4' }}>TaxGenius</span> Work?
+        How Does <span style={{ color: '#4285F4' }}>TaxEase</span> Work?
     </h1>
     <h2 style={{ fontSize: '24px', fontWeight: '500', color: '#5f6368' }}>
         It's quite easy actually!
@@ -63,17 +63,17 @@ function Home() {
 </div>
 
                     <div >
-                        <h1 className='headfirst' ><img src={done} alt="" />  <b>Register for TaxGenius account</b></h1>
-                        <p className='headpara'>Tell me a bit about your taxes and I'll show which TaxGenius package and price suits your need best</p>
+                        <h1 className='headfirst' ><img src={done} alt="" />  <b>Register with TaxEase</b></h1>
+                        <p className='headpara'>Sign up using your PAN card for quick and secure access.</p>
                         <br />
-                        <h1 className='headfirst' ><img src={done} alt="" />  <b>Have a chat with me online</b></h1>
-                        <p className='headpara'>We will give you the best possible way to return your tax easily, checking all deductions for maximum refund before filing at SARS.</p>
+                        <h1 className='headfirst' ><img src={done} alt="" />  <b>Chat with Taxify.AI</b></h1>
+                        <p className='headpara'>Get personalized tax guidance and maximize your deductions before filing.</p>
                         <br />
-                        <h1 className='headfirst'><img src={done} alt="" />  <b>Pay by Card To submit your Return</b></h1>
-                        <p className='headpara'>Pay for your tax return service via card directly on site.</p>
+                        <h1 className='headfirst'><img src={done} alt="" />  <b>File & Pay with Ease</b></h1>
+                        <p className='headpara'> Submit your tax return securely and hassle-free.</p>
                         <br />
                         <div style={{ display: 'flex', gap: '20px' }}>
-                        <a href='https://fsk5nfcqqgpu6ikylssyca.streamlit.app/' target='_blank' rel='noopener noreferrer'>
+                        <a href='https://taxassistantapp-e7dyyqwzkntbtdskhdeu5c.streamlit.app/' target='_blank' rel='noopener noreferrer'>
   <button 
     id='buttontwo' 
     style={{
@@ -109,56 +109,56 @@ function Home() {
                 </svg>
                 <div style={{ backgroundColor: "#DAEFF4" }}>
                 <h1 style={{ fontSize: '28px', fontWeight: '700', marginBottom: '10px' }}>
-        Why Should I Use <span style={{ color: '#4285F4' }}>TaxGenius</span> to File My Personal or Company Tax Return?
+        Why Should I Use <span style={{ color: '#4285F4' }}>TaxEase</span> to File My Personal or Company Tax Return?
     </h1>
     <h1 style={{ fontSize: '28px', fontWeight: '600', color: '#5f6368' }}>
         Great Question!
     </h1>
     <br />
-    <p>Let's have a chat! After answering a few simple questions, I'll complete your tax return and file</p>
-    <p>it directly with SARS to ensure you get the maximum possible refund!</p>
+    <p>Let's talk taxes!  Answer a few simple questions, and I'll prepare and file your tax return seamlessly.</p>
     <br />
     <br />
     <div id='arrangegrid'>
         <div className='griddiv'>
             <h1 className='griddivhead'>
                 <img src={puzzle} style={{ display: 'block', width: '45px', marginRight: '20px' }} alt="" />
-                <b> Fully Integrated</b>
+                <b> AI-Powered Tax Recommendations</b>
             </h1>
             <br />
-            <p>Once you authorize TaxGenius, I can import your IRP5 data and file your tax return directly with SARS.</p>
+            <p>Get smart suggestions for deductions and tax-saving investments.</p>
         </div>
         <div className='griddiv'>
             <h1 className='griddivhead'>
                 <img src={confi} style={{ display: 'block', width: '45px', marginRight: '20px' }} alt="" />
-                <b> File With Confidence</b>
+                <b>PAN Card Authentication</b>
             </h1>
             <br />
-            <p>I'll ensure your SARS tax return is fully completed and accurate, so you can file with confidence—on time, every time.</p>
+            <p>Secure and hassle-free registration using your PAN card.</p>
         </div>
         <div className='griddiv'>
             <h1 className='griddivhead'>
                 <img src={refund} style={{ display: 'block', width: '55px', marginRight: '20px' }} alt="" />
-                <b> Maximize Your Refund</b>
+                <b> Quick & Easy Filing</b>
             </h1>
             <br />
-            <p>My questions are designed to uncover all possible deductions to lower your tax and maximize your refund.</p>
+            <p>Automated calculations ensure accuracy and speed.</p>
         </div>
         <div className='griddiv'>
             <h1 className='griddivhead'>
                 <img src={secure} style={{ display: 'block', width: '65px', marginRight: '6px' }} alt="" />
-                <b>Your Information Is Secure</b>
+                <b>Multi-Platform Access</b>
             </h1>
             <br />
-            <p>I take security seriously. Your personal data is protected with 256-bit SSL encryption at all times—no compromises.</p>
+            <p>Sync your data securely across devices for convenience.
+</p>
         </div>
         <div className='griddiv'>
             <h1 className='griddivhead'>
                 <img src={clock} style={{ display: 'block', width: '50px', marginRight: '20px' }} alt="" />
-                <b> Quick and Easy</b>
+                <b>Maximize Your Refund, Minimize Tax Liability</b>
             </h1>
             <br />
-            <p>Most people complete their tax returns on TaxGenius in 20 minutes or less. Fast, yet thorough.</p>
+            <p> AI checks all eligible deductions to reduce tax liability.</p>
         </div>
     </div>
 </div>
@@ -170,11 +170,11 @@ function Home() {
               
                 <div style={{ backgroundColor: '#F8F9FA', padding: '40px 20px', textAlign: 'center' }}>
                     <h1 style={{ fontSize: '28px', fontWeight: '700', color: '#202124' }}>
-                        Who Uses <span style={{ color: '#4285F4' }}>TaxGenius?</span>
+                        Who Uses <span style={{ color: '#4285F4' }}>TaxEase?</span>
                     </h1>
                     
                     <p style={{ fontSize: '18px', color: '#5F6368', maxWidth: '600px', margin: '10px auto' }}>
-                        TaxGenius has helped <b>14 million South Africans</b> in 11 years. Here's what they say.
+                        TaxEase has helped <b>us.</b>
                     </p>
 
                     <div id='thriddivcontainer' style={{ display: 'flex', justifyContent: 'center', gap: '20px', flexWrap: 'wrap', marginTop: '30px' }}>
@@ -189,7 +189,7 @@ function Home() {
                         }}>
                         <img src={bot} alt="User Feedback" style={{ width: '50px', height: '50px' }} />
                         <h1 style={{ fontSize: '18px', fontWeight: '500', color: '#202124', marginTop: '10px' }}>
-                            Thank you so much for saving the skin of this last-minute.com tax payer!
+                        "TaxEase made tax filing effortless! The AI-powered recommendations helped me maximize my deductions, and the process was quick and seamless. I simply uploaded my Form 16, answered a few questions, and my return was filed accurately. Highly recommend for hassle-free tax filing!" – <b>Keerthi</b>
                         </h1>
                         </div>
 
@@ -203,7 +203,7 @@ function Home() {
                         }}>
                         <img src={bot} alt="User Feedback" style={{ width: '50px', height: '50px' }} />
                         <h1 style={{ fontSize: '18px', fontWeight: '500', color: '#202124', marginTop: '10px' }}>
-                            Thank you for making this so easy for me. Especially that I'm not really computer literate.
+                        "Filing my taxes has never been this easy! TaxEase guided me step by step, ensuring I claimed all eligible deductions. The AI recommendations and PAN authentication made the process smooth and accurate. Definitely a game-changer for stress-free tax returns!" – <b>Upendra</b>
                         </h1>
                         </div>
 

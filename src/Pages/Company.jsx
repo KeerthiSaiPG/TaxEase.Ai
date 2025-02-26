@@ -67,7 +67,7 @@ export const Company = () => {
                             {/* <h2>hello</h2> */}
                             <img src={image} alt="error" width={"200px"} height={"200px"} style={{ display: "block", margin: "auto" }} />
                             <h3>-Easy Tax Filling-</h3>
-                            <h1>Switch to TaxGenius and <br /> WIN R10,000</h1>
+                            <h1>Switch to TaxEase and <br /> WIN R10,000</h1>
                             <Button colorScheme='facebook' margin={"20px 180px"} >
                                Get Started
                             </Button>
