@@ -15,11 +15,11 @@ TaxEase.Ai streamlines tax management by:
 - **AI-Powered Tax Recommendations**
   - Uses machine learning models to analyze financial data.
   - Provides personalized recommendations for maximizing tax deductions.
-![AI-Driven Tax Optimization](./assets/chatbot.png)
+![AI-Driven Tax Optimization](./assets/taxify-ai.png)
 - **PAN Card Authentication**
   - The PAN Card Authentication feature streamlines the registration process while ensuring robust security and compliance. 
   - By leveraging a government-issued identifier, this feature significantly reduces fraud and simplifies user onboarding.
-![AI-Driven Tax Optimization](./assets/user-account-management.png)
+![AI-Driven Tax Optimization](./assets/home-page.png)
 - **Quick & Easy Filing**
   - The system processes user-provided financial data (such as income, expenses, and deductions) and automatically computes tax liabilities, eligible deductions, and potential refunds.
 ![AI-Driven Tax Optimization](./assets/document-handling-ocr-integration.png)
