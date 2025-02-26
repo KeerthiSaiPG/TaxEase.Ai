@@ -9,7 +9,7 @@ export const CalculatorPage = () => {
   const navigate = useNavigate();
 
   const handleUploadRedirect = () => {
-    window.location.href='https://taxassistantapp-e7dyyqwzkntbtdskhdeu5c.streamlit.app';
+    window.location.href='https://taxassistantapp-ngw3e9zhm2qrsp3rmtaye6.streamlit.app/';
   };
 
   return (
@@ -36,7 +36,7 @@ export const CalculatorPage = () => {
               onMouseEnter={(e) => e.currentTarget.style.transform = "scale(1.05)"}
               onMouseLeave={(e) => e.currentTarget.style.transform = "scale(1)"}
             >
-              <a href="https://taxassistantapp-e7dyyqwzkntbtdskhdeu5c.streamlit.app/" style={{ textDecoration: 'none', color: 'inherit' }}>
+              <a href="https://taxassistantapp-ngw3e9zhm2qrsp3rmtaye6.streamlit.app/" style={{ textDecoration: 'none', color: 'inherit' }}>
                 <img src="https://www.taxtim.com/za/images/calc-income-tax.png" alt="Salary Tax" style={{ width: '100%', borderRadius: '8px' }} />
                 <p style={{ fontSize: '18px', fontWeight: '600', marginTop: '10px' }}>Salary Tax</p>
                 <div style={{ color: '#5f6368', fontSize: '14px' }}>
