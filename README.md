@@ -10,6 +10,24 @@ TaxEase.Ai streamlines tax management by:
 - **Simplifying Filing Processes:** Automates documentation, filing, and payment procedures for a seamless user experience.
 - **Ensuring Data Security:** Implements robust security measures to protect sensitive financial data.
 
+## How Does TaxEase Work?
+
+It's quite easy actually! TaxEase simplifies the tax filing process into three simple steps:
+
+### ✅ Register with TaxEase  
+Sign up effortlessly using your **PAN card** for a secure and hassle-free experience.  
+Our encrypted platform ensures your financial data stays protected while granting you seamless access to tax filing features.
+
+### ✅ Chat with Taxify.AI  
+Get **real-time, AI-powered tax guidance** tailored to your financial situation.  
+Maximize your deductions, receive tax-saving tips, and clarify tax-related queries before filing—all with the help of **Taxify.AI**, your intelligent tax assistant.
+
+### ✅ File & Pay with Ease  
+Submit your tax return **securely and accurately** with just a few clicks.  
+Our system auto-verifies details, minimizes errors, and ensures **compliance with Indian tax regulations**, making tax filing stress-free and efficient.
+
+![AI-Driven Tax Optimization](./assets/interactive-dashboard.png)
+
 ## Features
 ![AI-Driven Tax Optimization](./assets/features.png)
 - **AI-Powered Tax Recommendations**
@@ -20,22 +38,20 @@ TaxEase.Ai streamlines tax management by:
   - The PAN Card Authentication feature streamlines the registration process while ensuring robust security and compliance. 
   - By leveraging a government-issued identifier, this feature significantly reduces fraud and simplifies user onboarding.
 ![AI-Driven Tax Optimization](./assets/home-page.png)
-- **Quick & Easy Filing**
-  - The system processes user-provided financial data (such as income, expenses, and deductions) and automatically computes tax liabilities, eligible deductions, and potential refunds.
-![AI-Driven Tax Optimization](./assets/document-handling-ocr-integration.png)
+
 - **Multi-Platform Access**
   - Automatically syncs your tax data in real time across all devices.
   - Provides a responsive interface that adapts to various screen sizes and resolutions.
 
 ![AI-Driven Tax Optimization](./assets/mobile.png)
+- **Quick & Easy Filing**
+  - The system processes user-provided financial data (such as income, expenses, and deductions) and automatically computes tax liabilities, eligible deductions, and potential refunds.
+![AI-Driven Tax Optimization](./assets/document-handling-ocr-integration.png)
+
 - **Maximize your refund, Minimize Tax liability**
   - Provides you with an estimated refund amount that reflects maximum possible savings.
   - It automatically identifies all eligible tax deductions and credits based on the latest tax regulations.
-  ![AI-Driven Tax Optimization](./assets/generating.png) | ![AI-Driven Tax Optimization](./assets/suggestions.png)
-- **Interactive Dashboard & Reporting:**
-  - Real-time analytics on tax liabilities and savings.
-  - Visual insights into tax history and future projections.
-![AI-Driven Tax Optimization](./assets/interactive-dashboard.png)
+  ![AI-Driven Tax Optimization](./assets/generating.png) ![AI-Driven Tax Optimization](./assets/suggestions.png)
 
 ## Tech Stack
 
