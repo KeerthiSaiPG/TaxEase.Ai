@@ -127,6 +127,11 @@ Ensure that you have the following installed on your system:
 - **Python 3** (For backend services)
 - **Streamlit**
 
+### GitHub Repository
+
+[TaxEase App Repository](https://github.com/KeerthiSaiPG/TaxEase_app)
+
+```This is link for the other part of the project```
 
 
 
